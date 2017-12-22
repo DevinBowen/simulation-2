@@ -18,5 +18,5 @@
   /* 30E */
   text-shadow: 2px 5px #ff0000;
   /* 30D */
-  background: linear-gradient(red, yellow);
+  background: linear-gradient(to bottom, #e2f3ea, #ffffff);
 }
