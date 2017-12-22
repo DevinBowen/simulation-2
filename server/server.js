@@ -16,6 +16,16 @@ app.use(session({
 }));
 
 
+//Authorization Endpoints
+// app.post('/api/auth/login', controller.login);
+// app.post('/api/auth/register', controller.register);
+// app.post('/api/auth/logout', controller.logout);
+
+//Properties Endpoints
+// app.post('/api/properties')
+// app.get('/api/properties')
+// app.delete('/api/properties/:id')
+// app.get('/api/properties/filter')
 
 
 const port = process.env.PORT
