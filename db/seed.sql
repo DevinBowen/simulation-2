@@ -1,3 +1,4 @@
+-- 67C
 create table inventory (
     -- 69D
     id serial primary key,

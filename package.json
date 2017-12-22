@@ -11,6 +11,7 @@
     "massive": "^4.5.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-meta-tags": "^0.3.0",
     "react-scripts": "1.0.17",
     "session": "^0.1.0"
   },

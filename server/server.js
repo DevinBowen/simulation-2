@@ -29,6 +29,7 @@ app.use(session({
 
 
 const port = process.env.PORT
+// 70C
 massive(process.env.CONNECTION_STRING).then(db => {
     app.set('db', db)
 app.listen(port, console.log(`this server is running on port ${port}.`))
